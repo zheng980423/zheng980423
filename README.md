@@ -1,7 +1,5 @@
-### 你好！欢迎来到我的GitHub profile -  [ZWF][website] 👋
+### 你好！欢迎来到我的GitHub profile -  [我的网站][website] 👋
 
-[![Website](https://github.com/zheng980423)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## 我正在学习web开发技术!!
 
